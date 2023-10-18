@@ -15,6 +15,7 @@ const me = {
   shoeCount: 5,
   favThreeFoods:['pasta ', 'steak ', 'chicken ']
 };
+
 console.log('A little about me:', me);
 
 /* 2. Accessing object properties.
@@ -59,4 +60,5 @@ console.log('my new shoe count is:', me.shoeCount);
 
 me.favoriteColor = 'Orange';
 
+console.log('my favorite color is:', me.favoriteColor);
 console.log('the new me:', me);
